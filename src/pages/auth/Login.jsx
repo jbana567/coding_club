@@ -4,6 +4,9 @@ import { useAuth } from '../../context/AuthContext';
 
 export default function Login() {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
   const [email, setEmail] = useState('');
   const [role, setRole] = useState('member'); // Temporary role selector for testing
   const { login } = useAuth();
@@ -61,6 +64,7 @@ export default function Login() {
       <p>Don't have an account? <Link to="/register">Register here</Link></p>
     </div>
   );
+<<<<<<< HEAD
 }
 =======
   const { login } = useAuth();
@@ -111,3 +115,6 @@ export default function Login() {
   );
 }
 >>>>>>> bc97c92 (Initial commit)
+=======
+}
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af

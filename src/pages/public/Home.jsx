@@ -1,5 +1,8 @@
 import { Link } from 'react-router-dom';
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
 import { useData } from '../../context/DataContext';
 import { useAuth } from '../../context/AuthContext';
 
@@ -69,6 +72,7 @@ export default function Home() {
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
 =======
 
@@ -235,3 +239,6 @@ export default function Home() {
   );
 }
 >>>>>>> bc97c92 (Initial commit)
+=======
+}
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af

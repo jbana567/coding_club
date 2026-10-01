@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
 import { createContext, useContext, useState, useEffect } from 'react';
 
 const AuthContext = createContext(null);
@@ -28,6 +31,7 @@ export const AuthProvider = ({ children }) => {
   );
 };
 
+<<<<<<< HEAD
 export const useAuth = () => useContext(AuthContext);
 =======
 import { createContext, useContext, useEffect, useState } from 'react';
@@ -197,3 +201,6 @@ export function useAuth() {
   return useContext(AuthContext);
 }
 >>>>>>> bc97c92 (Initial commit)
+=======
+export const useAuth = () => useContext(AuthContext);
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af

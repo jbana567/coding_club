@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
 :root {
   --text: #6b6375;
   --text-h: #08060d;
@@ -109,6 +112,7 @@ code {
   line-height: 135%;
   padding: 4px 8px;
   background: var(--code-bg);
+<<<<<<< HEAD
 =======
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
 @import "tailwindcss";
@@ -201,4 +205,6 @@ img {
 .hero-grid {
   background-image: linear-gradient(rgba(148, 163, 184, 0.04), rgba(148, 163, 184, 0.04));
 >>>>>>> bc97c92 (Initial commit)
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
 }

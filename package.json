@@ -1,9 +1,13 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "coding_club_msi",
 =======
   "name": "coding_club",
 >>>>>>> bc97c92 (Initial commit)
+=======
+  "name": "coding_club_msi",
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,6 +15,9 @@
     "dev": "vite",
     "build": "vite build",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -36,6 +43,7 @@
     "globals": "^17.11.0",
     "postcss": "^8.5.26",
     "tailwindcss": "^4.3.3",
+<<<<<<< HEAD
 =======
     "lint": "oxlint",
     "preview": "vite preview"
@@ -54,6 +62,8 @@
     "@vitejs/plugin-react": "^6.1.0",
     "oxlint": "^1.79.0",
 >>>>>>> bc97c92 (Initial commit)
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
     "vite": "^8.2.2"
   }
 }

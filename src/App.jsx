@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
 import { BrowserRouter } from 'react-router-dom';
 import { AuthProvider } from './context/AuthContext';
 import { DataProvider } from './context/DataContext';
@@ -11,6 +14,7 @@ function App() {
         <DataProvider>
           <AppRoutes />
         </DataProvider>
+<<<<<<< HEAD
 =======
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { AuthProvider } from './context/AuthContext';
@@ -88,12 +92,19 @@ export default function App() {
           </Route>
         </Routes>
 >>>>>>> bc97c92 (Initial commit)
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
       </AuthProvider>
     </BrowserRouter>
   );
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 export default App;
 =======
 >>>>>>> bc97c92 (Initial commit)
+=======
+
+export default App;
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af

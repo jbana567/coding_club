@@ -2,6 +2,9 @@ import { Navigate, Outlet } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
 export const ProtectedRoute = ({ allowedRoles }) => {
   const { user, role } = useAuth();
 
@@ -14,6 +17,7 @@ export const ProtectedRoute = ({ allowedRoles }) => {
   }
 
   return <Outlet />;
+<<<<<<< HEAD
 };
 =======
 // Wrap admin (or role-restricted) routes with this.
@@ -28,3 +32,6 @@ export default function ProtectedRoute({ roles }) {
   return <Outlet />;
 }
 >>>>>>> bc97c92 (Initial commit)
+=======
+};
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af

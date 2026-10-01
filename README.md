@@ -1,10 +1,14 @@
 # React + Vite
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 =======
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 >>>>>>> bc97c92 (Initial commit)
+=======
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
 
 Currently, two official plugins are available:
 
@@ -16,6 +20,7 @@ Currently, two official plugins are available:
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
@@ -24,3 +29,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
 >>>>>>> bc97c92 (Initial commit)
+=======
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af

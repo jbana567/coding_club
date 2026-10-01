@@ -1,6 +1,9 @@
 import { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
 
 export default function Register() {
   const [formData, setFormData] = useState({ name: '', email: '', password: '' });
@@ -52,6 +55,7 @@ export default function Register() {
       <p>Already have an account? <Link to="/login">Login here</Link></p>
     </div>
   );
+<<<<<<< HEAD
 }
 =======
 import { useAuth } from '../../context/AuthContext';
@@ -127,3 +131,6 @@ export default function Register() {
   );
 }
 >>>>>>> bc97c92 (Initial commit)
+=======
+}
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af

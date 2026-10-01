@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
 import { useAuth } from '../../context/AuthContext';
 import { useData } from '../../context/DataContext';
 
@@ -80,6 +83,7 @@ export default function Hackathons() {
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
 =======
 import { useEffect, useState } from 'react';
@@ -113,3 +117,6 @@ export default function Hackathons() {
   );
 }
 >>>>>>> bc97c92 (Initial commit)
+=======
+}
+>>>>>>> 82ea800619b4e5356edd52cd7b87dfce6dc254af
