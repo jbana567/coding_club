@@ -1,0 +1,17 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mark { font-family: 'Courier New', Consolas, monospace; font-weight: 700; }
+    </style>
+    <linearGradient id="cc-bg" x1="0" y1="0" x2="240" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#03131A"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="52" fill="url(#cc-bg)"/>
+  <rect x="1.5" y="1.5" width="237" height="237" rx="50.5" stroke="#0057d9" stroke-opacity="0.4" stroke-width="3"/>
+  <!-- Logo mark: {</>} braces white with outline, tag blue, no spacing -->
+  <text x="120" y="146" text-anchor="middle" font-size="78">
+    <tspan class="mark" fill="#ffffff" stroke="#0057d9" stroke-width="2.5">{</tspan><tspan class="mark" fill="#0057d9">&lt;/&gt;</tspan><tspan class="mark" fill="#ffffff" stroke="#0057d9" stroke-width="2.5">}</tspan>
+  </text>
+</svg>

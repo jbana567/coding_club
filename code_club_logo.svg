@@ -1,0 +1,16 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mark { font-family: 'Courier New', Consolas, monospace; font-weight: 700; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="900" height="300" fill="#ffffff"/>
+
+  <!-- Logo mark: {</>} braces white with outline, tag blue, no spacing -->
+  <text x="450" y="195" text-anchor="middle" font-size="150">
+    <tspan class="mark" fill="#ffffff" stroke="#0057d9" stroke-width="3">{</tspan><tspan class="mark" fill="#0057d9">&lt;/&gt;</tspan><tspan class="mark" fill="#ffffff" stroke="#0057d9" stroke-width="3">}</tspan>
+  </text>
+</svg>
+
